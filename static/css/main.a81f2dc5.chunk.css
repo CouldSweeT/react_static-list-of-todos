@@ -1,0 +1,2 @@
+.App{align-items:center}.App,.todo-list{display:flex;flex-direction:column}.todo-list{width:80%;margin:0;padding:0;grid-gap:10px;gap:10px}.todo-list__item{display:flex;align-items:center;text-align:center;min-height:50px;background:#a9a9a9}.todo-list__item--done{background-color:green}span{display:inline-block;width:25%}
+/*# sourceMappingURL=main.a81f2dc5.chunk.css.map */
